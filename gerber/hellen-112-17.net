@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/runner/work/hellen-test/hellen-test/hellen-112-17.kicad_sch</source>
+    <date>2024-11-30T06:57:09+0000</date>
+    <tool>Eeschema 8.0.6-8.0.6-0~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>hellen-112-17</title>
+        <company>rusEFI.com</company>
+        <rev>B</rev>
+        <date>2023-10-01</date>
+        <source>hellen-112-17.kicad_sch</source>
+        <comment number="1" value="https://rusefi.com/s/h112-17"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="F1">
+      <value>12H1500D</value>
+      <footprint>hellen-one-common:PAD-1206-PAD</footprint>
+      <fields>
+        <field name="LCSC">C182446</field>
+        <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C182446"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bf93b56-f872-40e6-b55b-5a000dfae52d</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>12H1500D</value>
+      <footprint>hellen-one-common:PAD-1206-PAD</footprint>
+      <fields>
+        <field name="LCSC">C182446</field>
+        <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C182446"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c445e6c0-cc70-4205-ab38-3d077055e195</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>12H1500D</value>
+      <footprint>hellen-one-common:PAD-1206-PAD</footprint>
+      <fields>
+        <field name="LCSC">C182446</field>
+        <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Fuse-Pad-Pad" description="12H1500D"/>
+      <property name="LCSC" value="C182446"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0da3deb5-58b7-401e-b929-ff9f8412e115</tstamps>
+    </comp>
+    <comp ref="G4">
+      <value>RUSEFI_LOGO</value>
+      <footprint>kicad6-libraries:rusefi_logo</footprint>
+      <fields>
+        <field name="Footprint">kicad6-libraries:rusefi_logo</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="rusefi_logo" part="RUSEFI_LOGO" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5410bd99-793b-410c-843c-7fecab530dce</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>rusefi_2x56_pin_conn</value>
+      <footprint>kicad6-libraries:rusefi_2x56_pin_connector</footprint>
+      <fields>
+        <field name="Footprint">kicad6-libraries:rusefi_2x56_pin_connector</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="rusefi_2x56_pin_connector" part="rusefi_2x56_pin_conn" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef5aac73-8772-4498-bfae-e6c29716d0cf</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec3a3443-564e-4d35-8cbf-ef1f0c6b595b</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b8c49bf-ac50-4b5b-8ec7-0054c14ae154</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bf5b2cb-8558-494e-a6c6-bac9705d3a7f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25917031-cd46-43d9-97a2-90298195b702</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2cc9355-5c54-49dd-b934-0a594f854f6e</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99f40004-5acd-4340-bf69-d21a8be9c3bc</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e95ec988-3878-41e6-ab66-4b5dad8973f0</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>026df84b-0551-4005-99a6-0a5b0407cd29</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45601ee4-ffbc-44b5-bf3a-340f6691fe95</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>188e230b-6422-4a10-a0e0-fd4e908c554e</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bfaca8a-f739-4672-9c9a-1565d54c42dd</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5877123f-e6e5-4794-94d6-2e9fbd1dc405</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6550212d-ce05-4d11-a067-d7e1b5a9cbd9</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d924619e-d5b2-4fc0-b124-33cf260ea5ab</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b457b4cb-0ece-4780-a2cb-972710712a4d</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcacb9f4-5c5d-4abd-be69-9fe29cbf1f3b</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>Jumper-Pad-Pad</value>
+      <footprint>hellen-one-common:PAD-0805-PAD</footprint>
+      <fields>
+        <field name="LCSC">C17477</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="hellen-one-common" part="Jumper-Pad-Pad" description=""/>
+      <property name="LCSC" value="C17477"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="hellen-112-17.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de228db9-2aa2-4cbc-98ea-6f629fd0d530</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="hellen-one-common" part="Fuse-Pad-Pad">
+      <description>12H1500D</description>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse-Pad-Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-1206-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description">12H1500D</field>
+        <field name="LCSC">C182446</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="hellen-one-common" part="Jumper-Pad-Pad">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Jumper-Pad-Pad</field>
+        <field name="Footprint">hellen-one-common:PAD-0805-PAD</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+        <field name="LCSC">C17477</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusefi_2x56_pin_connector" part="rusefi_2x56_pin_conn">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">rusefi_2x56_pin_conn</field>
+        <field name="Footprint">kicad6-libraries:rusefi_2x56_pin_connector</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1A" type="passive"/>
+        <pin num="2" name="2A" type="passive"/>
+        <pin num="3" name="3A" type="passive"/>
+        <pin num="4" name="4A" type="passive"/>
+        <pin num="5" name="5A" type="passive"/>
+        <pin num="6" name="6A" type="passive"/>
+        <pin num="7" name="7A" type="passive"/>
+        <pin num="8" name="8A" type="passive"/>
+        <pin num="9" name="9A" type="passive"/>
+        <pin num="10" name="10A" type="passive"/>
+        <pin num="11" name="11A" type="passive"/>
+        <pin num="12" name="12A" type="passive"/>
+        <pin num="13" name="13A" type="passive"/>
+        <pin num="14" name="14A" type="passive"/>
+        <pin num="15" name="15A" type="passive"/>
+        <pin num="16" name="16A" type="passive"/>
+        <pin num="17" name="17A" type="passive"/>
+        <pin num="18" name="18A" type="passive"/>
+        <pin num="19" name="19A" type="passive"/>
+        <pin num="20" name="20A" type="passive"/>
+        <pin num="21" name="21A" type="passive"/>
+        <pin num="22" name="22A" type="passive"/>
+        <pin num="23" name="23A" type="passive"/>
+        <pin num="24" name="24A" type="passive"/>
+        <pin num="25" name="25A" type="passive"/>
+        <pin num="26" name="26A" type="passive"/>
+        <pin num="27" name="27A" type="passive"/>
+        <pin num="28" name="28A" type="passive"/>
+        <pin num="29" name="29A" type="passive"/>
+        <pin num="30" name="30A" type="passive"/>
+        <pin num="31" name="31A" type="passive"/>
+        <pin num="32" name="32A" type="passive"/>
+        <pin num="33" name="33A" type="passive"/>
+        <pin num="34" name="34A" type="passive"/>
+        <pin num="35" name="35A" type="passive"/>
+        <pin num="36" name="36A" type="passive"/>
+        <pin num="37" name="37A" type="passive"/>
+        <pin num="38" name="38A" type="passive"/>
+        <pin num="39" name="39A" type="passive"/>
+        <pin num="40" name="40A" type="passive"/>
+        <pin num="41" name="41A" type="passive"/>
+        <pin num="42" name="42A" type="passive"/>
+        <pin num="43" name="43A" type="passive"/>
+        <pin num="44" name="44A" type="passive"/>
+        <pin num="45" name="45A" type="passive"/>
+        <pin num="46" name="46A" type="passive"/>
+        <pin num="47" name="47A" type="passive"/>
+        <pin num="48" name="48A" type="passive"/>
+        <pin num="49" name="49A" type="passive"/>
+        <pin num="50" name="50A" type="passive"/>
+        <pin num="51" name="51A" type="passive"/>
+        <pin num="52" name="52A" type="passive"/>
+        <pin num="53" name="53A" type="passive"/>
+        <pin num="54" name="54A" type="passive"/>
+        <pin num="55" name="55A" type="passive"/>
+        <pin num="56" name="56A" type="passive"/>
+        <pin num="57" name="1B" type="input"/>
+        <pin num="58" name="2B" type="input"/>
+        <pin num="59" name="3B" type="input"/>
+        <pin num="60" name="4B" type="input"/>
+        <pin num="61" name="5B" type="input"/>
+        <pin num="62" name="6B" type="input"/>
+        <pin num="63" name="7B" type="input"/>
+        <pin num="64" name="8B" type="input"/>
+        <pin num="65" name="9B" type="input"/>
+        <pin num="66" name="10B" type="input"/>
+        <pin num="67" name="11B" type="input"/>
+        <pin num="68" name="12B" type="input"/>
+        <pin num="69" name="13B" type="input"/>
+        <pin num="70" name="14B" type="input"/>
+        <pin num="71" name="15B" type="input"/>
+        <pin num="72" name="16B" type="input"/>
+        <pin num="73" name="17B" type="input"/>
+        <pin num="74" name="18B" type="input"/>
+        <pin num="75" name="19B" type="input"/>
+        <pin num="76" name="20B" type="input"/>
+        <pin num="77" name="21B" type="input"/>
+        <pin num="78" name="22B" type="input"/>
+        <pin num="79" name="23B" type="input"/>
+        <pin num="80" name="24B" type="input"/>
+        <pin num="81" name="25B" type="input"/>
+        <pin num="82" name="26B" type="input"/>
+        <pin num="83" name="27B" type="input"/>
+        <pin num="84" name="28B" type="input"/>
+        <pin num="85" name="29B" type="input"/>
+        <pin num="86" name="30B" type="input"/>
+        <pin num="87" name="31B" type="input"/>
+        <pin num="88" name="32B" type="input"/>
+        <pin num="89" name="33B" type="input"/>
+        <pin num="90" name="34B" type="input"/>
+        <pin num="91" name="35B" type="input"/>
+        <pin num="92" name="36B" type="input"/>
+        <pin num="93" name="37B" type="input"/>
+        <pin num="94" name="38B" type="input"/>
+        <pin num="95" name="39B" type="input"/>
+        <pin num="96" name="40B" type="input"/>
+        <pin num="97" name="41B" type="input"/>
+        <pin num="98" name="42B" type="input"/>
+        <pin num="99" name="43B" type="input"/>
+        <pin num="100" name="44B" type="input"/>
+        <pin num="101" name="45B" type="input"/>
+        <pin num="102" name="46B" type="input"/>
+        <pin num="103" name="47B" type="input"/>
+        <pin num="104" name="48B" type="input"/>
+        <pin num="105" name="49B" type="input"/>
+        <pin num="106" name="50B" type="input"/>
+        <pin num="107" name="51B" type="input"/>
+        <pin num="108" name="52B" type="input"/>
+        <pin num="109" name="53B" type="input"/>
+        <pin num="110" name="54B" type="input"/>
+        <pin num="111" name="55B" type="input"/>
+        <pin num="112" name="56B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusefi_logo" part="RUSEFI_LOGO">
+      <fields>
+        <field name="Reference">G</field>
+        <field name="Value">RUSEFI_LOGO</field>
+        <field name="Footprint">kicad6-libraries:rusefi_logo</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="+5VP">
+      <node ref="J1" pin="66" pinfunction="10B" pintype="input"/>
+      <node ref="R11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R54" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="+12V_RAW">
+      <node ref="F2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="F3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/CAN+">
+      <node ref="J1" pin="32" pinfunction="32A" pintype="passive"/>
+    </net>
+    <net code="4" name="/CAN-">
+      <node ref="J1" pin="44" pinfunction="44A" pintype="passive"/>
+    </net>
+    <net code="5" name="/IN_AV_107">
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/IN_AV_109">
+      <node ref="J1" pin="9" pinfunction="9A" pintype="passive"/>
+    </net>
+    <net code="7" name="/IN_AV_110">
+      <node ref="J1" pin="10" pinfunction="10A" pintype="passive"/>
+    </net>
+    <net code="8" name="/IN_AV_111">
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/IN_AV_112">
+      <node ref="J1" pin="12" pinfunction="12A" pintype="passive"/>
+    </net>
+    <net code="10" name="/IN_AV_119">
+      <node ref="J1" pin="19" pinfunction="19A" pintype="passive"/>
+    </net>
+    <net code="11" name="/IN_CAM">
+      <node ref="J1" pin="87" pinfunction="31B" pintype="input"/>
+    </net>
+    <net code="12" name="/IN_CLT">
+      <node ref="J1" pin="71" pinfunction="15B" pintype="input"/>
+    </net>
+    <net code="13" name="/IN_CRANK+">
+      <node ref="J1" pin="69" pinfunction="13B" pintype="input"/>
+      <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="14" name="/IN_CRANK-">
+      <node ref="J1" pin="57" pinfunction="1B" pintype="input"/>
+      <node ref="R9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/IN_DIGITAL_113">
+      <node ref="J1" pin="13" pinfunction="13A" pintype="passive"/>
+    </net>
+    <net code="18" name="/IN_DIGITAL_120">
+      <node ref="J1" pin="20" pinfunction="20A" pintype="passive"/>
+    </net>
+    <net code="19" name="/IN_DIGITAL_123">
+      <node ref="J1" pin="23" pinfunction="23A" pintype="passive"/>
+    </net>
+    <net code="20" name="/IN_DIGITAL_134_HS">
+      <node ref="J1" pin="34" pinfunction="34A" pintype="passive"/>
+    </net>
+    <net code="21" name="/IN_DIGITAL_135_HS">
+      <node ref="J1" pin="35" pinfunction="35A" pintype="passive"/>
+    </net>
+    <net code="22" name="/IN_DIGITAL_136_HS">
+      <node ref="J1" pin="36" pinfunction="36A" pintype="passive"/>
+    </net>
+    <net code="23" name="/IN_DIGITAL_147_HS">
+      <node ref="J1" pin="47" pinfunction="47A" pintype="passive"/>
+    </net>
+    <net code="24" name="/IN_IAT">
+      <node ref="J1" pin="83" pinfunction="27B" pintype="input"/>
+    </net>
+    <net code="27" name="/IN_MAP">
+      <node ref="J1" pin="75" pinfunction="19B" pintype="input"/>
+    </net>
+    <net code="28" name="/IN_PPS1">
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="/IN_PPS2">
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="/IN_TPS1">
+      <node ref="J1" pin="59" pinfunction="3B" pintype="input"/>
+    </net>
+    <net code="31" name="/IN_TPS2">
+      <node ref="J1" pin="76" pinfunction="20B" pintype="input"/>
+    </net>
+    <net code="32" name="/IN_VIGN">
+      <node ref="F1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="/IN_VSS">
+      <node ref="J1" pin="88" pinfunction="32B" pintype="input"/>
+    </net>
+    <net code="35" name="/OUT_AC_RELAY">
+      <node ref="J1" pin="31" pinfunction="31A" pintype="passive"/>
+    </net>
+    <net code="36" name="/OUT_ETB+">
+      <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="/OUT_ETB-">
+      <node ref="R16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="/OUT_FAN_RELAY">
+      <node ref="J1" pin="41" pinfunction="41A" pintype="passive"/>
+    </net>
+    <net code="39" name="/OUT_FUEL_CONSUMPTION">
+      <node ref="J1" pin="29" pinfunction="29A" pintype="passive"/>
+    </net>
+    <net code="40" name="/OUT_FUEL_PUMP_RELAY">
+      <node ref="J1" pin="42" pinfunction="42A" pintype="passive"/>
+    </net>
+    <net code="41" name="/OUT_IGN1">
+      <node ref="J1" pin="112" pinfunction="56B" pintype="input"/>
+    </net>
+    <net code="42" name="/OUT_IGN2">
+      <node ref="J1" pin="109" pinfunction="53B" pintype="input"/>
+    </net>
+    <net code="43" name="/OUT_IGN3">
+      <node ref="J1" pin="110" pinfunction="54B" pintype="input"/>
+    </net>
+    <net code="44" name="/OUT_IGN4">
+      <node ref="J1" pin="111" pinfunction="55B" pintype="input"/>
+    </net>
+    <net code="45" name="/OUT_INJ1">
+      <node ref="J1" pin="100" pinfunction="44B" pintype="input"/>
+    </net>
+    <net code="46" name="/OUT_INJ2">
+      <node ref="J1" pin="98" pinfunction="42B" pintype="input"/>
+    </net>
+    <net code="47" name="/OUT_INJ3">
+      <node ref="J1" pin="99" pinfunction="43B" pintype="input"/>
+    </net>
+    <net code="48" name="/OUT_INJ4">
+      <node ref="J1" pin="101" pinfunction="45B" pintype="input"/>
+    </net>
+    <net code="49" name="/OUT_LS_101">
+      <node ref="J1" pin="1" pinfunction="1A" pintype="passive"/>
+    </net>
+    <net code="50" name="/OUT_LS_102">
+      <node ref="J1" pin="2" pinfunction="2A" pintype="passive"/>
+    </net>
+    <net code="51" name="/OUT_LS_235">
+      <node ref="J1" pin="91" pinfunction="35B" pintype="input"/>
+    </net>
+    <net code="52" name="/OUT_LS_246">
+      <node ref="J1" pin="102" pinfunction="46B" pintype="input"/>
+    </net>
+    <net code="53" name="/OUT_MAIN_RELAY">
+      <node ref="J1" pin="15" pinfunction="15A" pintype="passive"/>
+    </net>
+    <net code="54" name="/OUT_RELAY_140">
+      <node ref="J1" pin="40" pinfunction="40A" pintype="passive"/>
+    </net>
+    <net code="55" name="/OUT_RELAY_151">
+      <node ref="J1" pin="51" pinfunction="51A" pintype="passive"/>
+    </net>
+    <net code="56" name="/OUT_RELAY_152">
+      <node ref="J1" pin="52" pinfunction="52A" pintype="passive"/>
+    </net>
+    <net code="57" name="/OUT_TACH">
+      <node ref="J1" pin="28" pinfunction="28A" pintype="passive"/>
+    </net>
+    <net code="58" name="GND">
+      <node ref="J1" pin="106" pinfunction="50B" pintype="input"/>
+      <node ref="J1" pin="53" pinfunction="53A" pintype="passive"/>
+      <node ref="J1" pin="54" pinfunction="54A" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="GNDA">
+      <node ref="J1" pin="103" pinfunction="47B" pintype="input"/>
+      <node ref="J1" pin="3" pinfunction="3A" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4A" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="5A" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="6A" pintype="passive"/>
+      <node ref="J1" pin="60" pinfunction="4B" pintype="input"/>
+      <node ref="J1" pin="61" pinfunction="5B" pintype="input"/>
+      <node ref="J1" pin="62" pinfunction="6B" pintype="input"/>
+      <node ref="J1" pin="63" pinfunction="7B" pintype="input"/>
+      <node ref="J1" pin="64" pinfunction="8B" pintype="input"/>
+      <node ref="R14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(J1-7A)">
+      <node ref="J1" pin="7" pinfunction="7A" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(J1-8A)">
+      <node ref="J1" pin="8" pinfunction="8A" pintype="passive"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(J1-11A)">
+      <node ref="J1" pin="11" pinfunction="11A" pintype="passive"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(J1-14A)">
+      <node ref="J1" pin="14" pinfunction="14A" pintype="passive"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(J1-16A)">
+      <node ref="F1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="16" pinfunction="16A" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(J1-21A)">
+      <node ref="J1" pin="21" pinfunction="21A" pintype="passive"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(J1-23B)">
+      <node ref="J1" pin="79" pinfunction="23B" pintype="input"/>
+      <node ref="R11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(J1-25A)">
+      <node ref="J1" pin="25" pinfunction="25A" pintype="passive"/>
+      <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(J1-26A)">
+      <node ref="J1" pin="26" pinfunction="26A" pintype="passive"/>
+      <node ref="R7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(J1-33B)">
+      <node ref="J1" pin="89" pinfunction="33B" pintype="input"/>
+      <node ref="R12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(J1-37A)">
+      <node ref="J1" pin="37" pinfunction="37A" pintype="passive"/>
+      <node ref="R54" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(J1-37B)">
+      <node ref="J1" pin="93" pinfunction="37B" pintype="input"/>
+      <node ref="R13" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(J1-38A)">
+      <node ref="J1" pin="38" pinfunction="38A" pintype="passive"/>
+      <node ref="R8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(J1-38B)">
+      <node ref="J1" pin="94" pinfunction="38B" pintype="input"/>
+      <node ref="R14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(J1-51B)">
+      <node ref="J1" pin="107" pinfunction="51B" pintype="input"/>
+      <node ref="R15" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(J1-52B)">
+      <node ref="J1" pin="108" pinfunction="52B" pintype="input"/>
+      <node ref="R16" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(J1-55A)">
+      <node ref="F2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="55" pinfunction="55A" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(J1-56A)">
+      <node ref="F3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="56" pinfunction="56A" pintype="passive"/>
+    </net>
+    <net code="78" name="unconnected-(J1-2B-Pad58)">
+      <node ref="J1" pin="58" pinfunction="2B" pintype="input+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(J1-9B-Pad65)">
+      <node ref="J1" pin="65" pinfunction="9B" pintype="input+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(J1-11B-Pad67)">
+      <node ref="J1" pin="67" pinfunction="11B" pintype="input+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(J1-12B-Pad68)">
+      <node ref="J1" pin="68" pinfunction="12B" pintype="input+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(J1-14B-Pad70)">
+      <node ref="J1" pin="70" pinfunction="14B" pintype="input+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(J1-16B-Pad72)">
+      <node ref="J1" pin="72" pinfunction="16B" pintype="input+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(J1-17A-Pad17)">
+      <node ref="J1" pin="17" pinfunction="17A" pintype="passive+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(J1-17B-Pad73)">
+      <node ref="J1" pin="73" pinfunction="17B" pintype="input+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(J1-18A-Pad18)">
+      <node ref="J1" pin="18" pinfunction="18A" pintype="passive+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(J1-18B-Pad74)">
+      <node ref="J1" pin="74" pinfunction="18B" pintype="input+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(J1-21B-Pad77)">
+      <node ref="J1" pin="77" pinfunction="21B" pintype="input+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(J1-22A-Pad22)">
+      <node ref="J1" pin="22" pinfunction="22A" pintype="passive+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(J1-22B-Pad78)">
+      <node ref="J1" pin="78" pinfunction="22B" pintype="input+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(J1-24A-Pad24)">
+      <node ref="J1" pin="24" pinfunction="24A" pintype="passive+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(J1-24B-Pad80)">
+      <node ref="J1" pin="80" pinfunction="24B" pintype="input+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(J1-25B-Pad81)">
+      <node ref="J1" pin="81" pinfunction="25B" pintype="input+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(J1-26B-Pad82)">
+      <node ref="J1" pin="82" pinfunction="26B" pintype="input+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(J1-27A-Pad27)">
+      <node ref="J1" pin="27" pinfunction="27A" pintype="passive"/>
+    </net>
+    <net code="96" name="unconnected-(J1-28B-Pad84)">
+      <node ref="J1" pin="84" pinfunction="28B" pintype="input+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(J1-29B-Pad85)">
+      <node ref="J1" pin="85" pinfunction="29B" pintype="input+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(J1-30A-Pad30)">
+      <node ref="J1" pin="30" pinfunction="30A" pintype="passive+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(J1-30B-Pad86)">
+      <node ref="J1" pin="86" pinfunction="30B" pintype="input+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(J1-33A-Pad33)">
+      <node ref="J1" pin="33" pinfunction="33A" pintype="passive+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(J1-34B-Pad90)">
+      <node ref="J1" pin="90" pinfunction="34B" pintype="input+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(J1-36B-Pad92)">
+      <node ref="J1" pin="92" pinfunction="36B" pintype="input+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(J1-39A-Pad39)">
+      <node ref="J1" pin="39" pinfunction="39A" pintype="passive+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(J1-39B-Pad95)">
+      <node ref="J1" pin="95" pinfunction="39B" pintype="input+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(J1-40B-Pad96)">
+      <node ref="J1" pin="96" pinfunction="40B" pintype="input+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(J1-41B-Pad97)">
+      <node ref="J1" pin="97" pinfunction="41B" pintype="input+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(J1-43A-Pad43)">
+      <node ref="J1" pin="43" pinfunction="43A" pintype="passive+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(J1-45A-Pad45)">
+      <node ref="J1" pin="45" pinfunction="45A" pintype="passive+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(J1-46A-Pad46)">
+      <node ref="J1" pin="46" pinfunction="46A" pintype="passive+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(J1-48A-Pad48)">
+      <node ref="J1" pin="48" pinfunction="48A" pintype="passive+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(J1-48B-Pad104)">
+      <node ref="J1" pin="104" pinfunction="48B" pintype="input+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(J1-49A-Pad49)">
+      <node ref="J1" pin="49" pinfunction="49A" pintype="passive+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(J1-49B-Pad105)">
+      <node ref="J1" pin="105" pinfunction="49B" pintype="input+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(J1-50A-Pad50)">
+      <node ref="J1" pin="50" pinfunction="50A" pintype="passive+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(R9-Pad2)">
+      <node ref="R9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="116" name="unconnected-(R10-Pad2)">
+      <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="117" name="unconnected-(R12-Pad2)">
+      <node ref="R12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="118" name="unconnected-(R13-Pad2)">
+      <node ref="R13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
