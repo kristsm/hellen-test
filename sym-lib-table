@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mega-mcu100-f7")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/mega-mcu100-f7/0.2/mega-mcu100-f7.kicad_sym")(options "")(descr ""))
+)
