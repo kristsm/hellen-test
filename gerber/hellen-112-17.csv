@@ -4,6 +4,7 @@
 "12H1500D","F3","hellen-one-common:PAD-1206-PAD","C182446"
 "RUSEFI_LOGO","G4","kicad6-libraries:rusefi_logo",""
 "rusefi_2x56_pin_conn","J1","kicad6-libraries:rusefi_2x56_pin_connector",""
+"Module:mega-mcu100-f7/0.2","M1","0.2:mega-mcu100-f7",""
 "Jumper-Pad-Pad","R1","hellen-one-common:PAD-0805-PAD","C17477"
 "Jumper-Pad-Pad","R2","hellen-one-common:PAD-0805-PAD","C17477"
 "Jumper-Pad-Pad","R3","hellen-one-common:PAD-0805-PAD","C17477"

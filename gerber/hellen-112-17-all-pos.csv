@@ -4,6 +4,7 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "F2","12H1500D","PAD-1206-PAD",53.000000,65.000000,-90.000000,top
 "F3","12H1500D","PAD-1206-PAD",50.500000,65.000000,-90.000000,top
 "J1","rusefi_2x56_pin_conn","rusefi_2x56_pin_connector",77.404267,89.716479,0.000000,top
+"M1","Module:mega-mcu100-f7/0.2","mega-mcu100-f7",61.375005,11.624995,90.000000,top
 "R1","Jumper-Pad-Pad","PAD-0805-PAD",64.000000,65.500000,-90.000000,top
 "R2","Jumper-Pad-Pad","PAD-0805-PAD",60.500000,65.500000,-90.000000,top
 "R3","Jumper-Pad-Pad","PAD-0805-PAD",55.300000,65.500000,-90.000000,top
